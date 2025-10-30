@@ -1,4 +1,4 @@
-# Cupon-Offline-Usage-Data-Analysis
+# Coupon-Offline-Usage-Data-Analysis
 ## 1. Project Overview
 With the widespread adoption and continuous improvement of mobile devices, the integration of mobile internet with various industries has entered a stage of rapid growth. Among these, O2O (Online to Offline) consumption has drawn particular attention. According to incomplete statistics, there are at least ten O2O startups valued at over one billion RMB, and even several giants worth tens of billions. The O2O sector connects hundreds of millions of consumers, with billions of user behavior and location data recorded every day across different apps. As such, it has become one of the best intersections between big data research and business operations.  
 
